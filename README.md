@@ -12,3 +12,6 @@ Kai Hill - Developer, Documentalist
 Kelilah Mayers - QA Specialist, Product Manager
 
 Aaron Grimes - Marketing Specialist, Documentalist
+
+## Project Navigation
+The repository consists of the project's documentation along with the skill itself. To understand how the skill functions, refer to the /Software Documentation directory.
