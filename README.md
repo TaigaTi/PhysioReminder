@@ -4,7 +4,11 @@ Alexa Skill designed to assist the patients at Optimal Physiotherapy Services wi
 
 ## Contributors
 Tarika Birch - Project Manager, PRO
+
 Dwayne Archer - Developer, Marketing
+
 Kai Hill - Developer, Documentalist
+
 Kelilah Mayers - QA Specialist, Product Manager
+
 Aaron Grimes - Marketing Specialist, Documentalist
